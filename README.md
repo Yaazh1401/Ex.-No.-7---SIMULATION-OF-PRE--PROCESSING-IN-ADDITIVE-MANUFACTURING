@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,24 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![step 1](https://github.com/user-attachments/assets/cacd70e0-7944-4838-874b-2a068053b14b)
+![Step 2](https://github.com/user-attachments/assets/d55f7f4c-b730-4f9e-8877-25e4a71dfd66)
+![step 3](https://github.com/user-attachments/assets/4e5530bf-a809-43e3-bf93-c485ccc105b9)
+![step 4](https://github.com/user-attachments/assets/51896fcb-dc7d-41f6-bce1-826b34d1d8ce)
+![step 5](https://github.com/user-attachments/assets/4ad9f80d-b300-45ac-8d3f-94b2e3590419)
+![Step 6](https://github.com/user-attachments/assets/52a346cd-7a29-4712-8e72-0bfde7411799)
 
 ## Output:
+![Step 1](https://github.com/user-attachments/assets/6c86a0e3-4431-4dbf-a596-12bc75385b9b)
+![Step 2](https://github.com/user-attachments/assets/47b703d6-6ce1-4beb-bf9a-9fd25014423c)
+![Step 3](https://github.com/user-attachments/assets/1d924b67-dadc-417b-b27a-3ebd61d531f2)
+![Step 4](https://github.com/user-attachments/assets/2750ef2c-8389-4871-bffc-92719b5ef959)
+![Step 5](https://github.com/user-attachments/assets/b2328cbf-d576-478a-9db2-dd28d981cc1a)
+![Step 6](https://github.com/user-attachments/assets/a061f20c-e0d9-4133-8f17-1807d2e6915b)
 
-### Name:
-### Register Number:
+
+### Name: yaazhini S
+### Register Number: 24900866
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
